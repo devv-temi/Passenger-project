@@ -1,4 +1,3 @@
-
 let countEL = document.getElementById("count-el")
 
 console.log(countEL)
